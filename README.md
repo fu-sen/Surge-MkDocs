@@ -27,3 +27,9 @@ Check the file change immediately before the error occurred.
 
 This is often not a problem with this project.
 You should not open an issue for that.
+
+## Note
+
+`*.surge.sh/robots.txt` is fixed.
+**`*.surge.sh` rejects the search engine crawler.**
+If you want to use Surge properly, use Custom Domain.
