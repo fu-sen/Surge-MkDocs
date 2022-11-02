@@ -1,3 +1,5 @@
+<!-- 2022/11/02 MkDocs 1.4.2 -->
+
 ## Surge-MkDocs
 
 **MkDocs with Surge (minimal configuration)**
