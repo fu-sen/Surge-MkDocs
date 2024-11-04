@@ -32,10 +32,9 @@ You should not open an issue for that.
 
 ## Note
 
-In 2024, `*.surge,sh` will return `503 Service Unavailable` \
-and will no longer be available.
+`*.surge.sh/robots.txt` is fixed.\
+**`*.surge.sh` rejects the search engine crawler.**
 
-<https://github.com/sintaxi/surge/issues>
+<https://mkdocs-ex.surge.sh/robots.txt>
 
-This problem does not seem to occur when using a custom domain.\
-This project has set up a custom domain using the [EU.org free domains](https://nic.eu.org/).
+If you want to use Surge properly, use Custom Domain.
