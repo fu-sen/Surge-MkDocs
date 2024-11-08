@@ -38,3 +38,6 @@ You should not open an issue for that.
 <https://mkdocs-ex.surge.sh/robots.txt>
 
 If you want to use Surge properly, use Custom Domain.
+
+This sample also uses the [EU.org domains](https://nic.eu.org/),
+and Surge deploys it with a custom domains.
