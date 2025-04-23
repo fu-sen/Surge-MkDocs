@@ -35,8 +35,6 @@ You should not open an issue for that.
 `*.surge.sh/robots.txt` is fixed.\
 **`*.surge.sh` rejects the search engine crawler.**
 
-<https://mkdocs-ex.surge.sh/robots.txt>
-
 If you want to use Surge properly, use Custom Domain.
 
 This sample also uses the [EU.org domains](https://nic.eu.org/),
